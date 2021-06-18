@@ -1,3 +1,3 @@
 # fp-sisop-IT08-2021
 
-<img src="Dokumentasi FP.jpg"/>
+lelah selalu commit sendirian dari awal sampai akhir :(
